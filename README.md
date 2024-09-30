@@ -66,8 +66,8 @@
 <a href="https://www.linkedin.com/in/walter-federico-arias" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-  <a href="https://leetcode.com/u/WariasLeet/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LeetCode-WariasLeet-blue?style=for-the-badge" alt="LeetCode Profile" />
+<a href="https://leetcode.com/u/WariasLeet/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LeetCode-WariasLeet-blue?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" width="100" />
 </a>
 <a href="https://www.instagram.com/fedearias976/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
